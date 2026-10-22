@@ -10,7 +10,7 @@
 
 Below are my hands-on portfolio projects, featuring data cleaning workflows, interactive Excel dashboards, and statistical research reports:
 
-* 📊 **[European Retail Sales Analysis & Interactive Excel Dashboard]()**
+* 📊 **[European Retail Sales Analysis & Interactive Excel Dashboard](https://github.com/angelonwafor123-dotcom/European-Sales-Dashboard-.git)**
   Analyzed 2,700+ retail transactions across European markets using Microsoft Excel. Built dynamic pivot tables, sales performance metrics, and interactive slicers to evaluate regional and product category revenue drivers.
 
 * 📈 **[Freelance Client Data Cleaning & Analytics Test]()**
