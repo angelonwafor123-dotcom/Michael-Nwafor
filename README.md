@@ -1,4 +1,4 @@
-# Hi there, I'm Michael Nwafor 👋
+# Hi there, I'm Michael Nwafor 
 
 -  **Education:** B.Sc. in Statistics from Nnamdi Azikiwe University (UNIZIK)
 -  **Interests:** Data Analysis, Statistical Modeling, & Quantitative Research
@@ -16,9 +16,9 @@ Below are my hands-on portfolio projects, featuring data cleaning workflows, int
 *  **[Freelance Client Data Cleaning & Analytics Test](https://github.com/angelonwafor123-dotcom/freelance-excel-client-test.git)**
   Transformed a raw, messy sales dataset into a management-ready report. Applied data standardization, calculated net revenue and profit margins, and created interactive pivot charts.
 
-*  **[Effect of Minimum Wage on Cost of Living in Nigeria (2009–2023)]()**
+*  **[Effect of Minimum Wage on Cost of Living in Nigeria (2009–2023)](https://github.com/angelonwafor123-dotcom/Nigeria-minimum-wage-cost-of-living.git)**
   Conducted empirical undergraduate research evaluating the impact of national minimum wage adjustments on CPI. Performed Pearson correlation ($r = 0.762$) and simple linear regression ($R^2 = 0.581$) using SPSS and Excel.
 
 ---
 
-🔗 **[View All Repositories & Workbooks](https://github.com/angelonwafor123-dotcom?tab=repositories)**
+ **[View All Repositories & Workbooks](https://github.com/angelonwafor123-dotcom?tab=repositories)**
